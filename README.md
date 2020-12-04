@@ -1,4 +1,5 @@
 # gct634_final_project
 
-Currently Only demo working.
+SOUND TEAM
+  Currently Only demo working.
 
